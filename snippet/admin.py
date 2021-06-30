@@ -3,3 +3,4 @@ from .models import SnippetModel
 
 # Register your models here.
 admin.site.register(SnippetModel)
+ 
